@@ -1,5 +1,5 @@
 #How to run the code
-git clone https://github.com/AjayYadavAi/laravel-starter.git
+git clone https://github.com/Ghinkosa/laravel_starter1.git
 
 cd laravel-starter
 
@@ -16,6 +16,10 @@ run : php artisan migrate:fresh --seed
 run : php artisan serve
 
 Best of luck
+
+
+
+
 
 #Credentials
 Admin
